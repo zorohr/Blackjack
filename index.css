@@ -1,0 +1,28 @@
+body {
+    font-family: "IM Fell English", serif;
+    background-image: url("images/blackjackTable.jpeg");
+    background-size: cover;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+
+h1 {
+    color: #377b65;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    color: hsl(317, 74%, 73%);
+    width: 150px;
+    background: #377b65;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin: 5px;
+}
